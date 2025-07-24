@@ -7,7 +7,7 @@
 </picture>
 
 <p align="left" dir="auto">
-  👨‍💻 I'm Youssef, a Computer & Data Science student who builds software that works, looks good, and makes sense.<br>
+  👨‍💻 I'm Youssef, a Computer & Data Science student who builds software that solves problem, looks good, and makes sense.<br>
   ⚙️ .NET Full Stack | Clean Code | Real-world logic.<br>
   🧠 I like making complex ideas simple through code.<br>
   📍 Alexandria, Egypt.<br>
