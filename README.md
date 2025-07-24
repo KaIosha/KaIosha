@@ -1,7 +1,8 @@
 # 💫 About Me:
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility: visible; max-width: 100%;"></picture>
 <p align="left" dir="auto">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>☕ I love coding in C#. <br>📃 Click here to see
   <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a>.</p>
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility: visible; max-width: 100%;"></picture>
+ 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yossef-waeel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com) 
