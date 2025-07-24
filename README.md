@@ -17,8 +17,17 @@
  
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossef-waeel/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com)
+
+<div align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/yossef-waeel/" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" style="max-width: 100%; height: auto; max-height: 40px;">
+    <img width="12" style="max-width: 100%;">
+  </a>
+  <a href="mailto:youssef.waeel.haroon@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" style="max-width: 100%; height: auto; max-height: 40px;">
+    <img width="12" style="max-width: 100%;">
+  </a>
+</div>
 
 
 # 💻 Tech Stack:
