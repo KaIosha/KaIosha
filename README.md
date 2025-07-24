@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a third-year Computer and Data Science student at FCDS with a strong focus on software engineering.
 
-
+<button class="w-[-webkit-fill-available] flex flex-col p-sm box-border hover:!border-tone-luminosity-300 !border-tone-luminosity-300" state="selected"><div class="flex" style="justify-content: center; float: right;"><img alt="Image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl5cjRvZWpwaWFsY3JjMThvcm0yc2cxZmlsc3ZhNzd6MTNjenI1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" style="height: 150px;"></div></button>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yossef-waeel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com) 
 
