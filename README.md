@@ -12,7 +12,7 @@
   🧠 I like making complex ideas simple through code.<br>
   📍 Alexandria, Egypt.<br>
   📃 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a><br><br>
-  <em><strong>"I solve problems you haven’t noticed yet — with code you won’t forget."</strong></em>
+  <em><strong>"Code is my weapon. Curiosity is my compass. Let’s break something safe and build something smarter."</strong></em>
 </p>
 
  
