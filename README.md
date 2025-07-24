@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-  <picture> <img align="right" src="[https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)" width="250px" style="visibility: visible; max-width: 100%;"></picture>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility: visible; max-width: 100%;"></picture>
 <p align="left" dir="auto">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>☕ I love coding in C#. <br>📃 Click here to see
   <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a>.</p>
  
