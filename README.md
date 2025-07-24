@@ -8,10 +8,11 @@
 
 <p align="left" dir="auto">
   <br>📍 Based in Alexandria, Egypt.<br>
-  🎓 Student at the Faculty of Computers and Data Science, Alexandria University.<br>
-  ☕ I love coding.<br>
-  📃 Click here to see
-  <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a>.
+  🎓 Computer & Data Science student at Alexandria University.<br>
+  💻 Passionate about building clean, efficient, and user-focused software.<br>
+  ⚙️ I enjoy turning complex problems into simple, intuitive solutions and always deliver clean, maintainable code.<br>
+  <br><em>“Great software is born from curiosity, built with precision, and crafted to last.”</em><br><br>
+  📃 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br>
 </p>
 
  
