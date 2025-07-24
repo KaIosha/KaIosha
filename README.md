@@ -1,9 +1,5 @@
 # 💫 About Me:
-I'm Youssef, a third-year Computer and Data Science student at FCDS with a strong focus on software engineering. I build real-world applications using C#, .NET, and modern web technologies, and I’m currently training as a full-stack developer through the Digital Egypt Pioneers (DEPI) initiative.
-
-
-
-<button class="w-[-webkit-fill-available] flex flex-col p-sm box-border hover:!border-tone-luminosity-300 !border-tone-luminosity-300" state="selected"><div class="flex" style="justify-content: center; float: center;"><img alt="Image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl5cjRvZWpwaWFsY3JjMThvcm0yc2cxZmlsc3ZhNzd6MTNjenI1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" style="height: 150px;"></div></button>
+<p align="left" dir="auto">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>🧮 Competitive programmer with 250+ problems Solved on Codeforces &amp; LeetCode.<br>💼 Vice President @HackerRank, FCDS.<br> 🚀 Ex-Intern @CognoRise Info Tech.<br>☕ I love coding in Java.<br>👨‍💻 I am the Vice Prisedent @HackerRank, FCDS.<br>🖥️ Currently pursuing CS fundamentals as DSA , DB, OS, and Networking.<br>📃 Click here to see <a href="https://drive.google.com/file/d/138DFYE1s_Sd93Mm1hT6D3jgD8gb94QQM/view" rel="nofollow">My Resume</a>.</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yossef-waeel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com) 
 
