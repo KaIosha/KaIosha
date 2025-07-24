@@ -9,7 +9,7 @@
 <p align="left" dir="auto">
   <br>📍 Based in Alexandria, Egypt.<br>
   🎓 Student at the Faculty of Computers and Data Science, Alexandria University.<br>
-  ☕ I love coding in C#.<br>
+  ☕ I love coding.<br>
   📃 Click here to see
   <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a>.
 </p>
