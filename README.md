@@ -7,12 +7,12 @@
 </picture>
 
 <p align="left" dir="auto">
-  <br>📍 Based in Alexandria, Egypt.<br>
-  🎓 Computer & Data Science student at Alexandria University.<br>
-  💻 Passionate about building clean, efficient, and user-focused software.<br>
-  ⚙️ I enjoy turning complex problems into simple, intuitive solutions and always deliver clean, maintainable code.<br>
-  <br><em>“Great software is born from curiosity, built with precision, and crafted to last.”</em><br><br>
-  📃 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br>
+  👨‍💻 I'm Youssef, a Computer & Data Science student who builds software that works, looks good, and makes sense.<br>
+  ⚙️ .NET Full Stack | Clean Code | Real-world logic.<br>
+  🧠 I like making complex ideas simple through code.<br>
+  📍 Alexandria, Egypt.<br>
+  📃 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a><br><br>
+  <em><strong>"I solve problems you haven’t noticed yet — with code you won’t forget."</strong></em>
 </p>
 
  
