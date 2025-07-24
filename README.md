@@ -1,3 +1,5 @@
+<h2 align="center">👋 Hi, I'm Youssef Waeel — a tech enthusiast on a journey through code and creativity</h2>
+
 # 💫 About Me:
 
 <picture>
