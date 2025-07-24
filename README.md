@@ -1,5 +1,7 @@
 # 💫 About Me:
-<p align="left" dir="auto">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>🧮 Competitive programmer with 250+ problems Solved on Codeforces &amp; LeetCode.<br>💼 Vice President @HackerRank, FCDS.<br> 🚀 Ex-Intern @CognoRise Info Tech.<br>☕ I love coding in Java.<br>👨‍💻 I am the Vice Prisedent @HackerRank, FCDS.<br>🖥️ Currently pursuing CS fundamentals as DSA , DB, OS, and Networking.<br>📃 Click here to see <a href="https://drive.google.com/file/d/138DFYE1s_Sd93Mm1hT6D3jgD8gb94QQM/view" rel="nofollow">My Resume</a>.</p>
+<p align="left" dir="auto">📍 Based in Alexandria, Egypt.<br>🎓 Student at the Faculty of Computers and Data Sciecne, Alexandria University.<br>☕ I love coding in C#. <br>📃 Click here to see
+  <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a>.</p>
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yossef-waeel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com) 
 
