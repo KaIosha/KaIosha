@@ -13,7 +13,6 @@
 🔍 I turn detailed requirements into scalable systems using clean architecture and structured thinking.<br><br>
 
 🌍 Based in <strong>Alexandria, Egypt</strong><br>
-📄 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br><br>
 
 <em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em>
 
