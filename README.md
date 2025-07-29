@@ -1,10 +1,23 @@
 <h1 align="center">👋 Hi, I'm Youssef Waeel</h1> 
 
-<picture><br> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250px" style="visibility: visible; max-width: 100%;"><br></picture><p align="left" dir="auto"><br>
+<picture>
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250px">
+</picture>
 
-👋 I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student who builds practical, well-structured software grounded in real-world logic.<br><br><br><br>  💻 I work across the full stack with <strong>.NET technologies</strong>, combining clean backend systems with clear and usable frontend design. My focus is always on writing efficient, maintainable, and production-ready code.<br><br><br><br>  🔍 I translate detailed requirements into scalable systems through clean architecture and thoughtful design.<br><br><br><br>  🌍 Based in <strong>Alexandria, Egypt</strong><br><br>  📄 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br><br><br><br>  <em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em><br></p><br>
+<p align="left" dir="auto">
 
-<picture><br> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250px" style="visibility: visible; max-width: 100%;"><br></picture><br><br><p align="left" dir="auto"><br>
+👋 I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student specializing in <strong>software development</strong>. I focus on building practical, well-structured applications grounded in real-world logic.<br><br>
+
+💻 I work across the full stack with <strong>.NET technologies</strong>, blending robust backend systems with clean, user-friendly frontend design. My focus is always on writing efficient, maintainable, and production-ready code.<br><br>
+
+🔍 I turn detailed requirements into scalable systems using clean architecture and structured thinking.<br><br>
+
+🌍 Based in <strong>Alexandria, Egypt</strong><br>
+📄 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br><br>
+
+<em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em>
+
+</p>
 
 
 
