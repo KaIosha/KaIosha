@@ -20,8 +20,7 @@
 </p>
 
 
-### 🔢 Profile Views  
-![Visitor Count](https://visitcount.itsvg.in/api?id=KaIosha&label=Visitors&color=0e75b6&icon=5)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossef-waeel/)
