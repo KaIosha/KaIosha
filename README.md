@@ -7,13 +7,20 @@
 </picture>
 
 <p align="left" dir="auto">
-  👨‍💻 I'm Youssef, a Computer & Data Science student who builds software that solves problem, looks good, and makes sense.<br>
-  ⚙️ .NET Full Stack | Clean Code | Real-world logic.<br>
-  🧠 I like making complex ideas simple through code.<br>
-  📍 Alexandria, Egypt.<br>
-  📃 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">My Resume</a><br><br>
-  <em><strong>"Code is my weapon. Curiosity is my compass. Let’s break something safe and build something smarter."</strong></em>
+  👋 I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student who builds practical, well-structured software based on real-world logic.<br><br>
+
+  💻 I work across the full stack with <strong>.NET technologies</strong>, combining clean backend systems with clear and usable frontend design. My focus is always on writing efficient, maintainable, and production-ready code.<br><br>
+
+
+
+  🔍 I approach software with clarity and structure — breaking down complex requirements, implementing clean architecture, and delivering results that make sense.<br><br>
+
+  🌍 Based in <strong>Alexandria, Egypt</strong> — available for remote work, internships, and technical collaboration.<br>
+  📄 <a href="https://drive.google.com/file/d/1agSoalTsMBhLogB5Ns_armqHubKfrily/view?usp=sharing" rel="nofollow">View My Resume</a><br><br>
+
+  <em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em>
 </p>
+
 
  
   
