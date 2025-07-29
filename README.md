@@ -5,7 +5,7 @@
 
 <p align="left" dir="auto">
 
-👋 I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student specializing in <strong>software development</strong>. I focus on building practical, well-structured applications grounded in real-world logic.<br><br>
+I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student specializing in <strong>software development</strong>. I focus on building practical, well-structured applications grounded in real-world logic.<br><br>
 
 💻 I work across the full stack with <strong>.NET technologies</strong>, blending robust backend systems with clean, user-friendly frontend design. My focus is always on writing efficient, maintainable, and production-ready code.<br><br>
 
