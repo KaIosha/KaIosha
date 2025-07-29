@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Youssef Waeel</h1> 
+<h1 align="center">About me</h1> 
 
 <picture>
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250px">
