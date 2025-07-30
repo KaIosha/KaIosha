@@ -11,7 +11,7 @@ I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student speciali
 
 🔍 I turn detailed requirements into scalable systems using clean architecture and structured thinking.<br><br>
 
-🌍 Based in <strong>Alexandria, Egypt</strong><br>
+🌍 My long-term goal is to become one of the most impactful software engineers in the world — not just by writing code, but by solving problems that genuinely matter.<br><br>
 
 <em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em>
 
