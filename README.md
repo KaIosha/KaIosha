@@ -26,11 +26,11 @@
   <br>
 
   now What I am doing:
-  <br>
-- Sharpening my C# and ASP.NET Core skills at a deeper level
-- System analysis, software design, and architectural thinking
-- Applying software engineering concepts that make code more scalable and maintainable
-  <br><br>
+  
+ Going deeper with C# and ASP.NET Core not just using it<br>
+ Learning how real systems are designed, analyzed, and built to last <br>
+ Writing code that follows solid engineering principles from day one <br>
+<br>
   
 <em><strong>"Code is my tool. Logic is my edge. Let's build things that matter."</strong></em>
 </p>
