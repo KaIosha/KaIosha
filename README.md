@@ -37,7 +37,7 @@
 <br clear="right"/>
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=kalosha&label=Profile%20views&color=2a8ac6&style=flat" alt="kalosha" /> </p>
 
-# Tech Stack:
+# I have in my bag:
 <div align="center">
 
 
