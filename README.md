@@ -25,7 +25,7 @@
   🎓 I was also awarded the <strong>Top Student Certificate</strong> during the same track.
   <br>
 
-  now I am Working On:
+  now What I am doing:
   <br>
 - Sharpening my C# and ASP.NET Core skills at a deeper level
 - System analysis, software design, and architectural thinking
