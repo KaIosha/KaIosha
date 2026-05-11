@@ -1,42 +1,99 @@
-<h1 align="center">About me 👋</h1> 
+<h1 align="center"> Youssef Waeel 👋</h1>
+
 <picture>
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVlZHM4MzY4b2s2NHJoamlvcGsxd2JlbnU2bnJtdW55dnBpYjJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="250px">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="470px" >
 </picture>
 
-<p align="left" dir="auto">
 
-I'm <strong>Youssef Waeel</strong>, a Computer and Data Science student specializing in <strong>software development</strong>. I focus on building practical, well-structured applications grounded in real-world logic.<br><br>
-
-💻 I work across the full stack with <strong>.NET technologies</strong>, blending robust backend systems with clean, user-friendly frontend design. My focus is always on writing efficient, maintainable, and production-ready code.<br><br>
-
-🔍 I turn detailed requirements into scalable systems using clean architecture and structured thinking.<br><br>
-
-🌍 My long-term goal is to become one of the most impactful software engineers in the world — not just by writing code, but by solving problems that genuinely matter.<br><br>
-
-<em><strong>"Code is my tool. Logic is my edge. Let’s build things that matter."</strong></em>
-
+<p align="left">
+  I'm a <strong>Computer Science student</strong> at Alexandria University focus on backend development with <strong>.NET</strong>.
+  I Work on building reliable, well-structured systems with a strong emphasis on clean architecture,
+  solid API design, and code that holds up under real-world conditions.
+  <br><br>
 </p>
 
+- **Backend & APIs** — ASP.NET Core, REST APIs, Entity Framework Core, Clean Architecture
+- **Databases** — Microsoft SQL Server, PostgreSQL, Mongo db
+- **Desktop & OOP** — C#, .NET, Windows Forms
+- **Frontend** — HTML5, CSS3, JavaScript, Bootstrap
+
+<p align="left">
+  <br>
+  🏆 My team won <strong>Best Project — .NET Track</strong> at DEPI, where I served as
+  backend developer on <strong>Athar</strong>, a full-stack charity platform .
+  <br>
+  🎓 I was also awarded the <strong>Top Student Certificate</strong> during the same track.
+  <br>
+
+  now I am Working On:
+  <br>
+- Sharpening my C# and ASP.NET Core skills at a deeper level
+- System analysis, software design, and architectural thinking
+- Applying software engineering concepts that make code more scalable and maintainable
+  <br><br>
+  
+<em><strong>"Code is my tool. Logic is my edge. Let's build things that matter."</strong></em>
+</p>
+<br clear="right"/>
+
+# Tech Stack:
+<div align="center">
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossef-waeel/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.waeel.haroon@gmail.com)
+**Languages**
+<br><br>
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="45"/>
 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Backend & Frameworks**
+<br><br>
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="45"/>
 
 
 
+**Databases**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mssqlserver&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KaIosha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KaIosha&theme=dark&hide_border=false)<br/>
+
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="45"/>
+
+
+**Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45"/>
+
+</div>
+
+# GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaIosha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=KaIosha&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalosha&theme=dark&hide_border=false)
+
+</div>
+
 
 
