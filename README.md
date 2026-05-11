@@ -35,6 +35,7 @@
 <em><strong>"Code is my tool. Logic is my edge. Let's build things that matter."</strong></em>
 </p>
 <br clear="right"/>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=kalosha&label=Profile%20views&color=2a8ac6&style=flat" alt="kalosha" /> </p>
 
 # Tech Stack:
 <div align="center">
