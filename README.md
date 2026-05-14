@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  I'm a <strong>Computer and Data Science student</strong> at Alexandria University focus on backend development with <strong>.NET</strong>.
+  I'm a <strong>Computer and Data Science student</strong> at Alexandria University focus on Software Engineering Specially backend development.
   I Work on building reliable, well-structured systems with a strong emphasis on clean architecture,
   solid API design, and code that holds up under real-world conditions.
   <br><br>
