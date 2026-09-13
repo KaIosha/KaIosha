@@ -8,25 +8,20 @@
 <p align="left">
   I'm a Computer and Data Science student at Alexandria University, and I focus on backend development with ASP.NET Core.
   <br><br>
-  I enjoy working on the parts people don't see: API design, database structure, authentication, and making code clear enough that someone else can pick it up after me.
+  I enjoy working on the parts people don't see: API design, database structure, and making code clear enough that someone else can pick it up after me.
   <br><br>
   Most of what I've learned comes from building real projects, breaking things, and fixing them again.
 </p>
 
 **What I work with:**
 - **Backend:** C#, ASP.NET Core, REST APIs, Entity Framework Core, LINQ, MVC
-- **Architecture and Security:** Clean Architecture, SOLID, Repository Pattern, Unit of Work, JWT, Google OAuth, Role-Based Authorization, Rate Limiting
 - **Databases:** SQL Server, PostgreSQL
 - **Tools:** Docker, Git, GitHub, Postman, Swagger, Visual Studio
 - **Other languages I have used:** C++, Java, Python, JavaScript
 
 <p align="left">
   <br>
-  At DEPI, I worked as a backend developer on <strong>Athar</strong>, a charity platform. Our team won <strong>Best Project in the .NET Track</strong>, and I received a <strong>Top Student Certificate</strong> in the same track.
-  <br><br>
-  In Summer 2026, I joined <strong>MIDOR as an IT Intern</strong>, where I saw how IT works inside a large industrial company, from system monitoring to day to day troubleshooting.
-  <br><br>
-  Right now I'm spending most of my time with C# and ASP.NET Core, learning how solid backend systems are designed and trying to write code that follows good engineering habits from the start.
+  I got into backend because I like how small decisions in design and structure affect the whole system. Right now I'm spending most of my time with C# and ASP.NET Core, trying to build things the right way from the start.
   <br><br>
   <em><strong>"Code is my tool. Logic is my edge. Let's build things that matter."</strong></em>
 </p>
@@ -36,7 +31,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/yossef-waeel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
   <a href="mailto:youssef.waeel.haroon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-  <a href="https://github.com/KaIosha" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 </p>
 
 ---
@@ -74,19 +68,12 @@ A team capstone project where I worked on the backend. I helped with database de
 **Backend and Frameworks**
 <br><br>
 <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="45"/>
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40"/>
 
-**Architecture and Security**
-<br>
-Clean Architecture, SOLID, Repository Pattern, Unit of Work, OOP, Role-Based Auth, OAuth 2.0, Rate Limiting
 
 **Databases**
 <br><br>
-<img src="https://skillicons.dev/icons?i=mssqlserver&theme=dark" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45"/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45"/>
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45"/>
 
@@ -114,10 +101,10 @@ Clean Architecture, SOLID, Repository Pattern, Unit of Work, OOP, Role-Based Aut
 ## Experience and Education:
 
 **IT Intern, MIDOR (Middle East Oil Refinery)** — Summer 2026, Alexandria
-Enterprise IT operations, system monitoring and troubleshooting in an industrial environment.
+Saw how IT works inside a large industrial company, from system monitoring to day to day troubleshooting.
 
-**Trainee, DEPI .NET Full-Stack Track (MCIT)** — Jun 2025 to Dec 2025
-Hands on training in C#, ASP.NET Core MVC, LINQ, EF Core and SQL Server. Worked in a team with Git and GitHub and contributed backend features to the Athar platform.
+**Backend Developer, Athar Charity Platform / DEPI .NET Track (MCIT)** — Jun 2025 to Dec 2025
+Built backend APIs and helped with database design in a team using Git and GitHub. Our team won Best Project in the .NET Track, and I received a Top Student Certificate.
 
 **Alexandria University** — 2023 to 2027
 Bachelor of Computer and Data Science
