@@ -36,16 +36,14 @@
 ---
 
 ## Featured Projects:
+### [Library Management System API](https://github.com/KaIosha/library-management-system-api) — 2026
+A library backend covering books, authors, categories, members, and borrowing with due dates, overdue tracking, and base plus late fees. It includes JWT with rotating refresh tokens, soft delete with reactivate, and cash plus Stripe Checkout payments verified on redirect.
+<br>Stack: ASP.NET Core, EF Core, SQL Server, JWT, Stripe, Hangfire
 
 ### [ERP Dashboard](https://github.com/KaIosha/erp-dashboard) — 2026
 A modular ERP backend with seven modules: Users, Customers, Products, Suppliers, Orders, Invoices, and Employees.
 It includes full CRUD, pagination and search, soft deletes, automatic invoice generation, and JWT role-based authorization. I containerized it with Docker Compose to keep the setup simple and consistent.
 <br>Stack: ASP.NET Core, EF Core, SQL Server, JWT, Docker
-
-### [AuthCore - Authentication API](https://github.com/KaIosha/AuthCore) — 2026
-An authentication API built with Clean Architecture. It covers user and organization registration, OTP email verification, JWT with rotating refresh tokens, password recovery, and Google login.
-I also added rate limiting and role-based authorization to make it closer to how auth works in production.
-<br>Stack: ASP.NET Core, EF Core, SQL Server, JWT, Google OAuth, MailKit
 
 ### [Athar - Charity Platform](https://github.com/KaIosha/Athar) — 2025
 A team capstone project where I worked on the backend. I helped with database design and building APIs for donors, volunteers, and vendors, including validated image uploads. We worked closely with the frontend team to connect everything together.
