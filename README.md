@@ -36,7 +36,7 @@
 ---
 
 ## Featured Projects:
-### [Library Management System API](https://github.com/KaIosha/library-management-system-api) — 2026
+### [Library Management System API]([https://github.com/KaIosha/library-management-system-api](https://github.com/KaIosha/LibraryManagementSystem)) — 2026
 A library backend covering books, authors, categories, members, and borrowing with due dates, overdue tracking, and base plus late fees. It includes JWT with rotating refresh tokens, soft delete with reactivate, and cash plus Stripe Checkout payments verified on redirect.
 <br>Stack: ASP.NET Core, EF Core, SQL Server, JWT, Stripe, Hangfire
 
